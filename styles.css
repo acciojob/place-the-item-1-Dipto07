@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+#eg-1{
+	height:100px;
+	width:100px;
+	background-color:red;
+	color:black;
+	order:2;
+}
+/* Your CSS Code here. */
+#eg-2{
+	height:100px;
+	width:100px;
+	background-color:blue;
+	color:black;
+	order:3;
+}
+/* Your CSS Code here. */
+#eg-3{
+	height:100px;
+	width:100px;
+	background-color:green;
+	color:black;
+	order:1;
+}
+.holder{
+	display:flex;
+	justify-content:space-evenly;
+}
